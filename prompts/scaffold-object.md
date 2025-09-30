@@ -1,0 +1,1 @@
+Create a “Travel Plan” custom object with the appropriate, sensible fields. Add all of the fields to the page layout and compact layout in a simple manner. Create a tab for the object and a permission set that grants read/create/edit access to the object, all fields and custom tab. Deploy to my default org and assign the permission set to my user.
