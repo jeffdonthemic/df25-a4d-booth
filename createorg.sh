@@ -26,3 +26,6 @@ sf org create scratch \
 echo "-----------------------------------"
 echo "Scratch org creation command complete. Happy demoing!!"
 echo "Your new default scratch org alias is: $org_alias"
+
+# Run the Salesforce CLI to list all org
+sf org list
